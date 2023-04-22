@@ -7,7 +7,7 @@ All tables have primary keys, but for dept_emp and dept_manager, we use a compos
 
 I used pgAdmin 4 to import the data into the tables.
 
-the ERD was created using the [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) tool. THere is also an image saved of the visual representation of the ERD.
+the ERD was created using the [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) tool.
 
 The data analysis is answering these questions: 
 
