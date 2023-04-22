@@ -26,7 +26,7 @@ hire_date DATE
 salaries
 -
 emp_no INTEGER PK FK - employees.emp_no
-salary INTEGER
+salary BIGINT
 
 titles
 -
